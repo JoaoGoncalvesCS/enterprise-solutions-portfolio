@@ -1,4 +1,4 @@
-\#Enterprise Solutions \& IT Infrastructure Portfolio
+\# Enterprise Solutions \& IT Infrastructure Portfolio
 
 
 
@@ -6,7 +6,7 @@ Technical portfolio documenting enterprise IT infrastructure labs, cross-layer t
 
 
 
-\##About
+\## About
 
 Built by \*\*João Gonçalves\*\* — Technical Sales Consultant \& IT Support Specialist with 10+ years of hands-on experience in hardware/software diagnostics, technical discovery, consultative solution recommendations, and post-sales support across US and European markets.
 
